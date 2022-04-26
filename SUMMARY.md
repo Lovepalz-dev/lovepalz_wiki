@@ -1,9 +1,10 @@
 # Table of contents
 
-* [Page 1](README.md)
-* [Page 2](page-2.md)
-* [Page 3](page-3.md)
+* [Our vision ](README.md)
+* [Diamondz  by  LOVEPALZ](page-2.md)
+* [Our mission](page-3.md)
+* [What is Diamondz  by  LOVEPALZ]()
 
-## Group 1
+## What is Diamondz by LOVEPALZ
 
-* [Page 4](group-1/page-4.md)
+* [Page 4](section-1/page-4.md)
