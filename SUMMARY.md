@@ -3,7 +3,7 @@
 * [Our vision](README.md)
 * [Diamondz by LOVEPALZ](page-2.md)
 * [Our mission](page-3.md)
-* [What is Diamondz by LOVEPALZ](<README (1).md>)
+* [What is Diamondz by LOVEPALZ](README.md)
 
 ## What is Diamondz by LOVEPALZ
 
@@ -24,3 +24,7 @@
 
 * [LOV](tokenomics/lov.md)
 * [LOVZ](tokenomics/lovz.md)
+
+***
+
+* [Page 1](page-1.md)
