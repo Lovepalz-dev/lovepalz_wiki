@@ -1,9 +1,3 @@
-# Page 3
+# Our mission
 
-asdas
-
-dasd
-
-asdas
-
-dasdasd
+### Our mission is create a Loving place in technology frontier.

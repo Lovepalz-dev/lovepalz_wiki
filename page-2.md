@@ -1,5 +1,5 @@
-# Page 2
+# Diamondz by LOVEPALZ
 
-dasdasdasdasdasdas
+**Diamondz** is first NFT project of **LOVEPALZ**,
 
-dasd
+**LOVEPALZ** is community driven organization and focus on web3 technology to facilitate human connection, to explore frontier of technology and new possibility of human intimate relationship.

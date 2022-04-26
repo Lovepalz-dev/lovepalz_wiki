@@ -1,4 +1,4 @@
-# Diamondz is
+# What is Diamondz by LOVEPALZ
 
 **Diamondz** is the utility assets to play “**THE GAME OF LOVE” x LOVEPALZ**
 
