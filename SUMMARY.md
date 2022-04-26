@@ -8,3 +8,4 @@
 ## What is Diamondz by LOVEPALZ
 
 * [Page 4](section-1/page-4.md)
+ 
